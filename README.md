@@ -131,8 +131,8 @@ The dataset contains transactional pizza sales data, including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](images/home.png)
-![Best Worst Analysis](images/best_worst.png)
+![Dashboard Overview](imageshome.png)
+![Best Worst Analysis](imagesbest_worst.png)
 
 ---
 
